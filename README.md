@@ -1,6 +1,5 @@
 # Entecnia Tests
 
-# How to send
 
 Compress the generated files into ZIP files.
 
